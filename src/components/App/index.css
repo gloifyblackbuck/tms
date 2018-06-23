@@ -1,0 +1,11 @@
+.content {
+  padding-left: 200px;
+  padding-top: 64px;
+}
+
+@media only screen and (max-width: 992px) {
+  .content {
+    padding-left: 0;
+    padding-top: 0;
+  }
+}

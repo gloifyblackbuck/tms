@@ -1,0 +1,93 @@
+.hr {
+  margin-top: 24px;
+  margin-bottom: 24px;
+  width: 270px;
+  border: solid 1px #ededed;
+}
+
+.status-color-marker {
+  width: 33px;
+  height: 33px;
+  border-radius: 50%;
+}
+
+
+.border-blue {
+  border: 2px solid #2196f3;
+  margin-right: 10px;
+}
+
+.live-shipments {
+  font-size: 24px;
+  font-weight: 300;
+  color: #5a6872;
+}
+
+.shipmentCount {
+  font-size: 36px;
+  font-weight: 500;
+  color: #152935;
+}
+
+.filter {
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 1;
+  color: #5a6872;
+  margin-bottom: 20px;
+}
+
+.input-label {
+  font-size: 14px !important;
+  font-weight: 600;
+  line-height: 1.29;
+  color: #152935 !important;
+}
+
+.checkbox-status {
+  font-size: 14px;
+  line-height: 1.29;
+  color: #152935;
+}
+
+.checkbox-status span {
+  margin-left: 10px;
+}
+
+.more-filters {
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.29;
+  color: #6180ee;
+  margin-top: 40px !important;
+  display: inline-flex;
+}
+
+.filter-action {
+  margin-top: 93px;
+  margin-bottom: 20px;
+  margin-left: 22px;
+}
+
+.filter-button-clear {
+  width: 100px;
+  height: 40px;
+  border: solid 2px #4f72ec;
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 1.29;
+  color: #4f72ec;
+  background-color: #ffffff;
+  padding: 10px 15px;
+}
+
+.filter-button-apply {
+  margin-left: 35px;
+  width: 100px;
+  height: 40px;
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 1.29;
+  background-color: #4f72ec;
+  padding: 10px 15px;
+}

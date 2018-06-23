@@ -1,0 +1,63 @@
+.side-nav-override {
+  top: 64px;
+  width: 200px;
+  color: #000;
+  background-color: #f8f9fb;
+  font-size: 16px !important;
+  padding-top: 25px;
+}
+
+.side-nav-override a {
+  padding-left: 24px !important;
+  padding-right: 0px !important;
+}
+
+
+.material-icons-override {
+  margin: 0 5px 0 0 !important;
+  color: inherit !important;
+  font-size: 18px;
+}
+
+.selected-tab {
+  color:#2979ff !important;
+}
+
+.icon-span {
+    margin-left: -5px;
+    padding-top: 9px;
+    padding-left: 5px;
+    padding-bottom: 1px;
+}
+
+.icon-displayName {
+  position: relative;
+  top: -3.5px;
+  left: 7px;
+}
+
+.selected-tab-icon {
+  border-radius: 4px;
+  background-color: #ffffff;
+  box-shadow: 1px 1px 4px 0 rgba(0, 0, 0, 0.25), -1px -1px 4px 0 rgba(0, 0, 0, 0.25)
+}
+
+/* .selected-tab i {
+  width: 24px;
+  height: 24px !important;
+  border-radius: 4px;
+  background-color: #ffffff;
+  box-shadow: 1px 1px 4px 0 rgba(0, 0, 0, 0.25), -1px -1px 4px 0 rgba(0, 0, 0, 0.25);
+} */
+
+
+@media screen and (max-width: 767px) {
+  .menu-icon-override {
+    position: absolute;
+    top: 16px;
+    z-index: 100000;
+  }
+  .side-nav-override {
+    top: 0px;
+  }
+}

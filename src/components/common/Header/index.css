@@ -1,0 +1,23 @@
+.nav-override {
+  position: fixed;
+  z-index: 1000;
+}
+
+.nav-wrapper-override
+{
+  color: #000;
+  background-color: #f8f9fb;
+}
+
+.brand-logo-override
+{
+  color: #000 !important;
+}
+
+
+.logo {
+  margin-left: 40px;
+  width: 101px;
+  height: 34px;
+  margin-top: 13px;
+}

@@ -1,0 +1,15 @@
+.marginTop30 {
+  margin-bottom: 30px;
+}
+
+.stopped {
+  color: #F44336 !important;
+}
+
+.behind-schedule {
+  color: #ff9800 !important;
+}
+
+.on-time {
+  color: #4CAF50 !important;
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>close</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="VTS" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <g id="shipment-detail" transform="translate(-1347.000000, -106.000000)" stroke="#152935">
+            <g id="close" transform="translate(1368.316746, 127.050787) rotate(45.000000) translate(-1368.316746, -127.050787) translate(1339.816746, 98.050787)">
+                <path d="M27.7331663,0.848885643 L27.7331663,56.9992846" id="Line"></path>
+                <path d="M56.6341069,29.7498263 L0.483707973,29.7498263" id="Line"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,39 @@
+.dashbordSummayHeader {
+  font-size: 24px;
+  font-weight: 300;
+  color: #5a6872;
+  color: var(--slate-grey);
+}
+
+.customDropdown {
+  margin-top: -8px;
+}
+
+.dashbordSummayHeaderValue {
+  font-size: 36px;
+  font-weight: 500;
+}
+
+.liveShipment {
+  color: #152935;
+}
+
+.onTime {
+  color: #5aa700;
+}
+
+.behindSchedule {
+  color: #ffa900;
+}
+
+.stopped {
+  color: #ff0000;
+}
+
+.chartHeader {
+  font-size: 20px;
+  line-height: 1.25;
+  color: #5a6872;
+  color: var(--slate-grey);
+  margin-bottom: 25px;
+}

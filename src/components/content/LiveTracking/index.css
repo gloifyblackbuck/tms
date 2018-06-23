@@ -1,0 +1,50 @@
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  z-index: 1;
+  height: 100%;
+  margin-right: -8px;
+  width: 100%;
+}
+
+.shipmentModal {
+  flex:100%;
+  padding: 20px 40px;
+}
+
+.map-box {
+  flex: 75%;
+}
+
+.filter-box {
+  overflow-y: scroll;
+  padding: 20px;
+  flex: 310px;
+  background-color: #ffffff;
+}
+
+.input-field-override {
+  z-index: 10000;
+  width: 500px;
+  position: fixed;
+  top: -5px;
+  border-radius: 2px;
+  background-color: #ffffff;
+}
+
+.input-field-override input {
+  border: none !important;
+}
+
+@media screen and (max-width: 767px) {
+  body {
+    overflow-y: hidden;
+  }
+  .flex-container {
+    flex-direction: column;
+  }
+  .input-field-override{
+    top: 64px;
+    position:none;
+  }
+}
